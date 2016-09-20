@@ -1,0 +1,1 @@
+a:5:{s:5:"title";s:13:"sing资讯网";s:8:"keywords";s:35:"singcms 资讯 体育 新闻 科技";s:11:"description";s:43:"sing资讯网是提供最新的新闻网站";s:9:"dumpmysql";s:1:"1";s:10:"cacheindex";s:1:"0";}
